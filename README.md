@@ -1,5 +1,5 @@
 # Snake Game
-This is a traditional Snake game written in Python and implemented with the Pygame package. The player controls a snake that crawls around the screen consuming food and getting longer in this basic yet addicting game. When the snake collides with a wall or its own body, the game is over.
+This is a traditional Snake game written in Python and implemented with the Pygame package. The player controls a snake that crawls around the screen consuming food and getting longer. When the snake collides with a wall or its own body, the game is over.
 
 # Features
 * Easy to understand gameplay.
